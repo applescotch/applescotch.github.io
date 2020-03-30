@@ -22,6 +22,7 @@ url: "https://www.applescotch.com" # the base hostname & protocol for your site,
 twitter_username: lrettig
 github_username: applescotch
 google_analytics: UA-148649960-1
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
