@@ -2,15 +2,15 @@
 layout:   post
 title:    "Hello, world"
 subtitle: "Welcome to Applescotch"
-image:    /assets/foo.jpg
+image:    /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg.jpg
 author:   Lane Rettig
 date:     2020-03-31 09:00:00 -0400
 permalink: /:year/:month/:day/:title:output_ext
 ---
 
-![You are being watched](/assets/foo.jpg)
+![You are being watched](/assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg.jpg)
 
-<p style="text-align: center"><sub>Image description</sub></p>
+<p style="text-align: center"><sub>The best days, and relationships, begin with good coffee. Photo by <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on Unsplash.</sub></p>
 
 I’ve tried starting a personal blog a number of times over the past few years. Each time, I was stymied by one of two thoughts.
 
