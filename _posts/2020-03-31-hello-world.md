@@ -2,13 +2,12 @@
 layout:   post
 title:    "Hello, world"
 subtitle: "Welcome to Applescotch"
-image:    /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg.jpg
+image:    /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg
 author:   Lane Rettig
 date:     2020-03-31 09:00:00 -0400
-permalink: /:year/:month/:day/:title:output_ext
 ---
 
-![You are being watched](/assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg.jpg)
+![A cup of coffee](/assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg)
 
 <p style="text-align: center"><sub>The best days, and relationships, begin with good coffee. Photo by <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on Unsplash.</sub></p>
 
