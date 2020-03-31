@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![A photo of the author](/assets/lane.jpg)
+<img src="/assets/lane.jpg" alt="A photo of the author" width="250"/>
 
 Hello, world. My name is Lane Rettig, and this is my personal blog. I also publish things, mostly about blockchain, on [Medium](https://medium.com/@lrettig) and at [Etherean.org](https://www.etherean.org/) (and occasionally shout into the void [on Twitter](https://twitter.com/lrettig)). The things I publish here are shorter, less polished, more personal, and about a broader variety of topics.
 
