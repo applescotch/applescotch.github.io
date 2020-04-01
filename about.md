@@ -14,6 +14,10 @@ By way of background, after college I spent a few years working in quantitative 
 
 For the past few years, I’ve been mostly focused on open source software including blockchain protocol development. I worked as an Ethereum core developer from 2017-2019. These days, I work on a novel blockchain protocol called [Spacemesh](http://spacemesh.io/) (you can read about my [motivation](https://spacemesh.io/a-new-human-chain/) for working on the project), consult on blockchain governance, write, and work on side projects. I also meditate, do yoga, hike, and run marathons.
 
-You may be wondering, where does the name Applescotch come from? Two of my favorite things in the world are apples and single malt scotch. In a sense, they represent two antipodes of my personality: the desire to follow the rules, fit in, and be healthy, on the one hand; and the desire to be a little deviant, anarchistic, and play by my own rules, on the other. We all comprise manifold contradictions; this is my defining contradiction. Oh, I also just like how the name sounds!
+You may be wondering, where does the name Applescotch come from? Two of my favorite things in the world are apples and single malt scotch. In a sense, they represent two antipodes of my personality: the desire to follow the rules, fit in, and be healthy, on the one hand; and the desire to be a little deviant, anarchistic, and play by my own rules, on the other. We all comprise manifold contradictions; this is one of my favorites. Douglas Hofstadter put it best:
+
+> "We all are bundles of contradictions, and we manage to hang together by bringing out only one side of ourselves at a given time."
+
+Oh, I also just like how the name sounds!
 
 Welcome to the ground floor of the rabbit hole. You can read more about my motivations for Applescotch in [Hello, world](/2020/03/31/hello-world.html).
