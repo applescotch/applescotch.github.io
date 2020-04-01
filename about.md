@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/lane.jpg" alt="A photo of the author" width="250"/>
-
-Hello, world. My name is Lane Rettig, and this is my personal blog. I also publish things, mostly about blockchain, on [Medium](https://medium.com/@lrettig) and at [Etherean.org](https://www.etherean.org/) (and occasionally shout into the void [on Twitter](https://twitter.com/lrettig)). The things I publish here are shorter, less polished, more personal, and about a broader variety of topics.
+<img src="/assets/lane.jpg" alt="A photo of the author" width="250" align="left" style="margin: 0px 10px 0px 0px; clip-path: circle(120px at center)"/>Hello, world. My name is Lane Rettig, and this is my personal blog. I also publish things, mostly about blockchain, on [Medium](https://medium.com/@lrettig) and at [Etherean.org](https://www.etherean.org/) (and occasionally shout into the void [on Twitter](https://twitter.com/lrettig)). The things I publish here are shorter, less polished, more personal, and about a broader variety of topics.
 
 I’ve been writing software since I was eight years old. To me, software is both self expression and activism. I firmly believe that we must write the software we want to see in the world. We can’t rely on big companies to do this for us because the incentives are [fundamentally misaligned](https://g.co/kgs/FsPm9X). We need software and systems that are more open, permissionless, participatory, interoperable, resilient, censorship resistant, and better governed than the ones we rely on today. 
 
