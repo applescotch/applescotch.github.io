@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+  font-weight: normal;
+}
+
 /* Home */
 .post-list {
   margin-left: 0;
