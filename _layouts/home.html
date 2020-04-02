@@ -10,19 +10,24 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2>{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h3 class="post-head">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {%- if post.image -%}
+            {%- assign alttext = post.imagealt | strip_html | default: post.title -%}
+            <p><a href="{{ post.url | relative_url }}"><img class="post-hero" src="{{ post.image }}" alt="{{ alttext }}"/></a></p>
+          {%- endif -%}
+          {%- assign toremove = post.imagetxt | strip_html | default: "" -%}
+          {{ post.content | strip_html | remove: toremove | truncatewords: 50 }}
         {%- endif -%}
       </li>
       {%- endfor -%}
