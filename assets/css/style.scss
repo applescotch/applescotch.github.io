@@ -13,17 +13,27 @@
   }
 }
 
-.post-head {
+.post-home-head {
   border-bottom: none;
   margin-top: 0;
 }
 
-.post-hero {
+.post-home-hero {
   border: none;
   max-width: 300px;
 }
 
 /* Post */
+
+.post-meta {
+  margin-bottom: 0;
+}
+
+.post-hero {
+  border: none;
+  margin-bottom: 0;
+  width: 100%;
+}
 
 .post-title {
   border-bottom: none;

@@ -31,6 +31,14 @@ layout: default
   </p>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.image -%}
+      <img class="post-hero" src="{{page.image}}" alt="{{page.imagealt}}" style="width: 100%"/>
+    {%- endif -%}
+
+    {%- if page.imagetxt -%}
+      <p style="text-align: center"><sub>{{ page.imagetxt }}</sub></p>
+    {%- endif -%}
+
     {{ content }}
   </div>
 

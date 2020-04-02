@@ -8,11 +8,6 @@ imagetxt: The best days, and relationships, begin with good coffee. Photo by <a 
 author:   Lane Rettig
 date:     2020-03-31 09:00:00 -0400
 ---
-
-![{{ page.imagealt }}]({{ page.image }})
-
-<p style="text-align: center"><sub>{{ page.imagetxt }}</sub></p>
-
 I’ve tried starting a personal blog a number of times over the past few years. Each time, I was stymied by one of two thoughts.
 
 The first thought was, Why would anyone want to read what I have to write, anyway? Do I really have things worth writing and sharing with the world? There is a certain conceit associated with publishing, whether you’re publishing words, images, art, software, music, something tangible, anything really, and regardless of where and how you publish it. Especially in an age when everyone [and their dog](https://mediakix.com/blog/top-dogs-of-instagram-to-follow/) does content marketing, so that it almost feels like you're more exceptional if you _don't._

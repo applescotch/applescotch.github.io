@@ -16,7 +16,7 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3 class="post-head">
+        <h3 class="post-home-head">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
@@ -24,7 +24,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {%- if post.image -%}
             {%- assign alttext = post.imagealt | strip_html | default: post.title -%}
-            <p><a href="{{ post.url | relative_url }}"><img class="post-hero" src="{{ post.image }}" alt="{{ alttext }}"/></a></p>
+            <p><a href="{{ post.url | relative_url }}"><img class="post-home-hero" src="{{ post.image }}" alt="{{ alttext }}"/></a></p>
           {%- endif -%}
           {%- assign toremove = post.imagetxt | strip_html | default: "" -%}
           {{ post.content | strip_html | remove: toremove | truncatewords: 50 }}
