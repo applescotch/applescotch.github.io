@@ -22,7 +22,12 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {%- if post.image -%}
+            {%- assign alttext = post.imagealt | strip_html | default: post.title -%}
+            <p><a href="{{ post.url | relative_url }}"><img class="post-hero" src="{{ post.image }}" alt="{{ alttext }}"/></a></p>
+          {%- endif -%}
+          {%- assign toremove = post.imagetxt | strip_html | default: "" -%}
+          {{ post.content | strip_html | remove: toremove | truncatewords: 50 }}
         {%- endif -%}
       </li>
       {%- endfor -%}
