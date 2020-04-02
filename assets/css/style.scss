@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Home */
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: 30px;
+  }
+}
+
+.post-head {
+  border-bottom: none;
+  margin-top: 0;
+}
+
+/* Post */
+
+.post-title {
+  border-bottom: none;
+}
+
+.post-subtitle {
+  margin-top: 0;
+  border-bottom: none;
+}
+
+sub {
+  font-size: smaller;
+}
+
