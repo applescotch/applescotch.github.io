@@ -2,6 +2,7 @@
 layout:   post
 title:    "Look on the bright side"
 subtitle: "The coming days and weeks will be pretty grim. That doesn't mean that what comes after has to be."
+categories: [health, covid19, society]
 image:    /assets/chris-barbalis-11zO3vpCuKA-unsplash.jpg
 imagealt: Sun shining through dark clouds
 imagetxt: 'And it must follow, as the night the day: thou canst not then be afraid of any virus. Photo by <a href="https://unsplash.com/@cbarbalis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Barbalis</a> on Unsplash.'
