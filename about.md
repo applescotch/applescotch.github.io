@@ -20,4 +20,4 @@ You may be wondering, where does the name Applescotch come from? Two of my favor
 
 Oh, I also just like how the name sounds!
 
-Welcome to the ground floor of the rabbit hole. You can read more about my motivations for Applescotch in [Hello, world](/2020/03/31/hello-world.html).
+Welcome to the ground floor of the rabbit hole. You can read more about my motivations for Applescotch in [Hello, world](/meta/writing/2020/03/31/hello-world.html).
