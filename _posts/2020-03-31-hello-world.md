@@ -2,6 +2,7 @@
 layout:   post
 title:    "Hello, world"
 subtitle: "Welcome to Applescotch"
+categories: [meta, writing]
 image:    /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg
 imagealt: A cup of coffee
 imagetxt: The best days, and relationships, begin with good coffee. Photo by <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on Unsplash.
