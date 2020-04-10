@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Modular writing and shaving yaks"
-subtitle:   "Writing words and writing code have more in common than I realized"
+subtitle:   "Writing words and writing code have a lot in common"
 categories: [writing, software, meta]
 author:     Lane Rettig
 date:       2020-04-09 10:49:00 -0400
