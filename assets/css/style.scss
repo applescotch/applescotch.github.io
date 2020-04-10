@@ -32,6 +32,20 @@ a.twitter {
   background: url(../images/twitter.png) no-repeat 1px;
 }
 
+/* Force header to be taller on medium width screens to contain all the buttons */
+@media print, screen and (max-width: 960px) {
+  header {
+    height: 170px;
+  }
+}
+
+/* On smallest screens let them stack */
+@media print, screen and (max-width: 720px) {
+  header {
+    height: unset;
+  }
+}
+
 /* Post */
 
 .post-meta {
