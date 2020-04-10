@@ -64,6 +64,22 @@ a.twitter {
   display: block;
 }
 
+div.float-left {
+  float: left;
+  margin-right: 20px;
+}
+
+img.float-left {
+  max-width: 300px;
+  margin-bottom: 10px;
+  border: none;
+}
+
+p.sub-image {
+  margin-bottom: 0;
+  text-align: center;
+}
+
 sub {
   font-size: smaller;
 }
