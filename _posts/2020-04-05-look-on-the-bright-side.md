@@ -1,12 +1,13 @@
 ---
-layout:   post
-title:    "Look on the bright side"
-subtitle: "The coming days and weeks will be pretty grim. That doesn't mean that what comes after has to be."
+layout:     post
+title:      "Look on the bright side"
+subtitle:   "The coming days and weeks will be pretty grim. That doesn't mean that what comes after has to be."
 categories: [health, covid19, society]
-image:    /assets/chris-barbalis-11zO3vpCuKA-unsplash.jpg
-imagealt: Sun shining through dark clouds
-imagetxt: 'And it must follow, as the night the day: thou canst not then be afraid of any virus. Photo by <a href="https://unsplash.com/@cbarbalis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Barbalis</a> on Unsplash.'
-author:   Lane Rettig
+image:      /assets/chris-barbalis-11zO3vpCuKA-unsplash.jpg
+imagealt:   Sun shining through dark clouds
+imagetxt:   'And it must follow, as the night the day: thou canst not then be afraid of any virus. Photo by <a href="https://unsplash.com/@cbarbalis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Barbalis</a> on Unsplash.'
+author:     Lane Rettig
+issue_id:   19
 date:     2020-04-05 12:27:00 -0400
 ---
 In many parts of the world, including where I live, Covid19 has turned things upside-down. Thousands of people—soon to be tens of thousands—are dying every day from a disease that’s novel and still not very well understood. Families everywhere are losing loved ones. Healthcare workers, first responders, and also those who work in logistics, transport, and the food supply chain, are heroes on the front lines of the battle that are putting themselves at risk every day to serve others. More people will die, and life will become harder for many who do not. These are facts and can no longer be avoided, even in the rosiest, best case scenario. We each need to internalize these facts in our own way, and cope with them on our own time.

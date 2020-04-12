@@ -1,12 +1,13 @@
 ---
-layout:   post
-title:    "Hello, world"
-subtitle: "Welcome to Applescotch"
+layout:     post
+title:      "Hello, world"
+subtitle:   "Welcome to Applescotch"
 categories: [meta, writing]
-image:    /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg
-imagealt: A cup of coffee
-imagetxt: The best days, and relationships, begin with good coffee. Photo by <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on Unsplash.
-author:   Lane Rettig
+image:      /assets/taylor-vick-NJTj9jvNo0U-unsplash.jpg
+imagealt:   A cup of coffee
+imagetxt:   The best days, and relationships, begin with good coffee. Photo by <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on Unsplash.
+author:     Lane Rettig
+issue_id:   20
 date:     2020-03-31 09:00:00 -0400
 ---
 I’ve tried starting a personal blog a number of times over the past few years. Each time, I was stymied by one of two thoughts.

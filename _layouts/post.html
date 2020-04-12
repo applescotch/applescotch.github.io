@@ -42,9 +42,10 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- if page.issue_id -%}
+    {%- include comments.html issue_id=page.issue_id -%}
   {%- endif -%}
+  <div id="gh-comments-list"/>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

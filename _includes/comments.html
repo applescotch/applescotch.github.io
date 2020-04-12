@@ -1,0 +1,12 @@
+<script src="/assets/js/comments.js"></script>
+<script>
+  $(document).ready(function () {
+    console.log("Loading comments outer")
+    const repo_url = "{{site.github.repository_url}}"
+    const api_url = "{{site.github.api_url}}"
+    const repo_nwo = "{{site.github.repository_nwo}}"
+    const issue_id = "{{include.issue_id}}"
+    addComments(repo_url, api_url, repo_nwo, issue_id)
+  })
+</script>
+
