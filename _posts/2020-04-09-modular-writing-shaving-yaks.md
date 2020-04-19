@@ -8,6 +8,7 @@ date:       2020-04-09 10:49:00 -0400
 image:      /assets/sean-martin-CnWM3njCU60-unsplash.jpg
 imagealt:   Close-up of a yak
 imagetxt:   'This yak could use a shave. But first we need to find a yak razor. Let me go find my car keys... Photo by <a href="https://unsplash.com/@joeavocado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sean Martin</a> on Unsplash.'
+issue_id:   24
 ---
 By training, I’m a computer scientist and a software developer. I tend to look at the world through the lens of software, systems, and processes. I look for structure and patterns, and for ways to optimize those processes. As one example, waiting in line to check out at a grocery store is infuriating, because the system feels so broken and inefficient—why would you split everyone up into a bunch of tiny lines, where some move much faster than others? (Whole Foods, at least, seems to have figured this out.)
 
