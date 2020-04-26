@@ -5,6 +5,9 @@ subtitle:   "When in the Course of human events, it becomes necessary for one pe
 categories: [data, sovereignty]
 author:     Lane Rettig
 date:       2020-04-26 08:35:00 -0400
+image:      /assets/smallhouse.jpg
+imagealt:   A small house with a big personality
+imagetxt:   'Sometimes, it's important to have a little space to ourselves, no matter what the neighbors think. <a href="https://www.pinterest.com/pin/34832597089661079/">Image source</a>'
 issue_id:   25
 ---
 One day, about 15 years ago, I got off a flight in a city I don’t know well. I was going to visit a friend, and I was supposed to pick up a rental car, call my friend, and let them know that I was on my way. Something strange must’ve happened while I was in the air, because when I landed, for some odd reason, _nothing worked._
