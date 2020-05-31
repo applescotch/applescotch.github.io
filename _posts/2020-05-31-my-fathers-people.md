@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      My Father's People
-categories: [books, culture, history]
+categories: [books, culture, psychology]
 author:     Lane Rettig
 date:       2020-05-31 14:07:00 -0400
 issue_id:   27
