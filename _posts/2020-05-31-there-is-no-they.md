@@ -5,10 +5,10 @@ subtitle:   Language is a window into another person's world. Recently, it gave 
 categories: [agency, psychology, family]
 author:     Lane Rettig
 date:       2020-05-31 14:11:00 -0400
-image:      /assets/smallhouse.jpg
-imagealt:   A small house with a big personality
-imagetxt:   "Sometimes, it's important to have a Little space to ourselves, no matter what the neighbors think. <a href='https://www.pinterest.com/pin/34832597089661079/'>Image source</a>"
-issue_id:   25
+image:      /assets/marc-kleen-BJgvcBsDlNo-unsplash.jpg
+imagealt:   Old man looking at a display of cameras
+imagetxt:   "My father's world may be short on agency, but it's also a world full of wonder and mystery. Photo by <a href='https://unsplash.com/@marckleen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Marc Kleen</a> on Unsplash"
+issue_id:   29
 ---
 While talking to my father recently, I noticed something interesting about the way he speaks. He tends to use the word “they” a lot, in ways that sound strange and unnatural to me. He uses “they” in ways I never would. It’s such a common, unremarkable word, I had never really thought about what it means or how it’s used. But when I paid close attention to dad’s speech, I realized that that one little word actually signifies quite a bit.
 
@@ -55,6 +55,7 @@ I’ve encouraged Dad for a long time to be a more active consumer of content: t
 Agency is an extraordinarily important topic to me. It’s one that I think about a great deal, and one that I want to write more about. One of the most powerful, life-changing things I’ve come to understand is that nothing is the way it is by chance. Everything in the modern world around us (other than nature itself) is the way it is because someone not unlike ourselves—someone no smarter and no more motivated than you and I—chose to make it so. Agency can, and does, change the world. This is a powerful, liberating thought.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaRvEC95DlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
 
 When I was first getting involved in Ethereum and other open source projects, someone said something to me that perfectly captured this sentiment: There is no “they,” only “we.” This idea is, of course, especially true of open, permissionless, decentralized projects and communities, but really, it’s true of the world in general. Never expect that “they”, some invisible authority, will fix something for you.
 
