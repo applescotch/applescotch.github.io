@@ -89,8 +89,13 @@ img.float-left {
   border: none;
 }
 
+img.inline {
+  border: none;
+  margin-bottom: 10px;
+}
+
 p.sub-image {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   text-align: center;
 }
 
