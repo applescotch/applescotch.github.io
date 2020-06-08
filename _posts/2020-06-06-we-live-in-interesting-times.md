@@ -50,7 +50,7 @@ The cycles have compressed recently, due to technology. It may feel like things 
 
 While lurching from crisis to crisis, society needs to let off some steam—sometimes, a lot of steam. That’s positive too. Better gradual, halting progress than a century of absolute repression followed by an explosion—a revolution. What looks like chaos and disorder in the heat of the moment is in fact an important sign of progress. Some parts of the old order must be torn down in order that the new may rise. Indeed, this is the only way that progress ever happens. We have reinvented ourselves many times before, and we will do so again many times.
 
-A lot of things are broken. May the ongoing social unrest be a constant reminder of that, a thorn in the side of those who benefit from the present system at the expense of others, and a spur to make painful but necessary changes. At the same time, may rocket ships continue to blast off, as a reminder of what we are capable of, and of what we are working towards.
+A lot of things are broken. May the ongoing social unrest be a constant reminder of that. May it [make people in power uncomfortable](https://youtu.be/qPXgAIeQs1Q). May it be a thorn in the side of those who benefit from the present system at the expense of others, and a spur to make painful but necessary changes. At the same time, may rocket ships continue to blast off, as a reminder of what we are capable of, and of what we are working towards.
 
 Some might wish for total peace and quiet, for “law and order.” Not I. Society never, not even for a moment, stands still. And when society stumbles forward, it does so noisily and messily. May we continue to live in interesting times.
 
