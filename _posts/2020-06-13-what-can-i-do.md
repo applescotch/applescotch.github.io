@@ -6,6 +6,9 @@ categories: [society]
 author:     Lane Rettig
 date:       2020-06-13 11:37:00 -0400
 issue_id:   34
+image:      /assets/time_is_now.jpg
+imagealt:   A man photographing street art in Manhattan
+imagetxt:   "If there's one thing I've learned, it's that no time ever feels right to make a change. There really is no time like the present. Street art in Soho, New York City, June 2020. Photo by the author."
 ---
 One of the questions that keeps coming up in conversations with friends lately is, “What can I do?” When I’ve tried to answer that question, for myself and for others, I’ve felt stuck. I’m certain that I _can_ and _should_ do something, but it’s not obvious _what_ or where to start. The world is changing very quickly, and it’s difficult to keep up.
 
