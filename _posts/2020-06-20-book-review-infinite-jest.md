@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      Infinite Jest Book Review
-subtitle:   Subtitle
-categories: [books]
+subtitle:   If you read one great piece of fiction this year, make it Infinite Jest. It will change the way you think about fiction, about life, and about the people around you.
+categories: [books, fiction]
 author:     Lane Rettig
 date:       2020-06-20 22:19:00 -0400
 issue_id:   36
-image:      /assets/time_is_now.jpg
-imagealt:   Alt text
-imagetxt:   Description
+image:      /assets/thomas-william-4qGbMEZb56c-unsplash.jpg
+imagealt:   A handheld video camera
+imagetxt:   I had a lot of trouble choosing an image for this article. If I had to pick one image to represent _Infinite Jest_, it would be the handheld video camera. This is partly because film is such a central theme throughout the book, but also because of the way, through the book, the author holds a camera up to his own life, and to society. (Photo by <a href="https://unsplash.com/@thomasw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas William</a> on <a href="/collections/10767938/infinite-jest?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)
 ---
 [no spoilers]
 
@@ -48,7 +48,7 @@ No man or woman is an island. Each of us is the person we are today due to the c
 
 Most of all, _Infinite Jest_ left me with a very strong desire to write, as a way to better understand myself, and my world, and all of the crazy characters and stories in it. I’ve long wanted to write a novel, and while I don’t feel anywhere near capable of doing that yet, I do feel that _Infinite Jest_ provides a model for how I might approach the task.
 
-Have you read _Infinite Jest?_ What did you think? Let me know by leaving a comment [LINK].
+Have you read _Infinite Jest?_ What did you think? Let me know by [leaving a comment](https://github.com/applescotch/applescotch.github.io/issues/36).
 
 [^1]: I learned more new vocabulary from _Infinite Jest_ than I have from probably any other book I’ve ever read. In addition to tableau, a few other words that come to mind are bradykinetic, carbuncular, annular, rococo, gestalt, and ghost word, not to mention the names and chemical makeups of far more drugs than I care to know about (I’m [not the only one](https://www.goodreads.com/review/show/9466977) to have made such a list). If you’ve read _Infinite Jest,_ you’re probably smiling and chuckling to yourself right now; if you haven’t, read the book so you are in on the jokes!
 
