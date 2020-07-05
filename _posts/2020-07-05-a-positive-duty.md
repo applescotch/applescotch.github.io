@@ -8,7 +8,7 @@ date:       2020-07-05 14:59:00 -0400
 issue_id:   38
 image:      /assets/juneteenth.jpg
 imagealt:   Protestors wearing masks and carrying signs
-imagetxt:   Black Lives Matter demonstrations in New York City, June 2020. Wearing a facemask and fighting racial injustice may seem like they don't have much in common. Actually, they do. Photo by the author.
+imagetxt:   Wearing a facemask and fighting racial injustice may seem like they don't have much in common. Actually, they do. Black Lives Matter demonstrations in New York City, June 2020. Photo by the author.
 ---
 I’ve recently been fascinated by two social, political topics that are highly relevant and controversial in America today. At first blush these topics don’t appear to have anything in common, but as I’ve thought more about government, and its role and its purpose, I’ve realized that in fact there is an important connection between them.
 
