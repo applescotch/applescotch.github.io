@@ -6,9 +6,9 @@ categories: [usa, society, racism]
 author:     Lane Rettig
 date:       2020-07-12 10:54:00 -0400
 issue_id:   40
-image:      /assets/juneteenth.jpg
-imagealt:   Protestors wearing masks and carrying signs
-imagetxt:   Wearing a facemask and fighting racial injustice may seem like they don't have much in common. Actually, they do. Black Lives Matter demonstrations in New York City, June 2020. Photo by the author.
+image:      /assets/ehimetalor-akhere-unuabona-zswLbyR_b58-unsplash.jpg
+imagealt:   Racism is a pandemic
+imagetxt:   "It's not just an empty slogan. Racism really is like a virus: it constantly evolves and requires constant vigilance to keep at bay. (Photo by <a href='https://unsplash.com/@theeastlondonphotographer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Ehimetalor Akhere Unuabona</a> on Unsplash</span>)"
 ---
 I’ve been almost totally ignorant about racism until very recently. Like so many White Americans of my generation, I grew up under the false pretense that, since my family and I were not ourselves racist—in the sense that we didn’t think less of people of color, nor did we engage in any overtly racist acts—racism was not my problem. I naively felt that racists were bad people and that, since my friends, family, and I were not bad people, we could not have been racist. I had no notion of the concepts of white supremacy or white privilege.
 
