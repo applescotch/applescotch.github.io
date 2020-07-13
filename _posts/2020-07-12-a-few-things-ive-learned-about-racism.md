@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "A Few Things I've Learned About Racism"
-subtitle:   What the uniquely modern, American debates over wearing facemasks and confronting racism have in common
+title:      A Few Things I've Learned About Racism
+subtitle:   Racism is so persistent precisely because so many of us find it difficult to talk about, and feel that it's not our problem. It is our problem. It's everyone's problem.
 categories: [usa, society, racism]
 author:     Lane Rettig
 date:       2020-07-12 10:54:00 -0400
