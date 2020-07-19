@@ -8,7 +8,7 @@ date:       2020-07-19 11:26:00 -0400
 issue_id:   42
 image:      /assets/diana-uNd7uSxZKOI-unsplash.jpg
 imagealt:   Some creative political art
-imagetxt:   "None of them have the answers. Perhaps we should just make SpongeBob our emperor. I doubt things would get any worse. (<span>Photo by <a href="https://unsplash.com/@thisistherealdiana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">diana</a> on Unsplash</span>)"
+imagetxt:   "None of them have the answers. Perhaps we should just make SpongeBob our emperor. I doubt things would get any worse. (<span>Photo by <a href='https://unsplash.com/@thisistherealdiana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>diana</a> on Unsplash</span>)"
 ---
 I’m feeling pretty fed up with the state of the world. I’ve felt this way for a long time, but the feeling has definitely become more intense recently. There are a number of reasons I feel this way, but the most obvious reason is politics. Politics feels totally broken in the United States and in disarray at the international level too. I’m sure I’m not alone in this feeling.
 
