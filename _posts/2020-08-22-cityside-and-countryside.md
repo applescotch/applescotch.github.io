@@ -6,9 +6,9 @@ categories: [culture, society, usa, city]
 author:     Lane Rettig
 date:       2020-08-22 19:14:00 -0400
 issue_id:   46
-image:      /assets/ksenia-makagonova-aquip1jWnlA-unsplash.jpg
-imagealt:   Meditating on a zazen bench
-imagetxt:   "One of the tricks of meditation is being comfortable, but not too comfortable. Meditation requires balancing many contradictions. (Photo by <a href='https://unsplash.com/@dearseymour?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Ksenia Makagonova</a> on Unsplash)"
+image:      /assets/IMG_20200818_081053.jpg
+imagealt:   A view over the mountains
+imagetxt:   "If only you could get a view like this in the city. Can you blame people who wake up to this view every morning for liking things as they are? Maine, August 2020. (Photo by the author)"
 ---
 Over the past few decades, major cities have been engines of enormous growth and prosperity in the United States and elsewhere. Cities have brought together diverse groups of people from different places and different walks of life, forcing them to live side by side more or less peaceably and allowing them to learn from one another. Cities are cauldrons of more than cultural mixing, however: they’re also where ideas, business, and innovation flourish. This concentration of different forms of capital—human, intellectual, and financial—led to the largest explosion of prosperity in human history, particularly visible in places like Wall Street and Silicon Valley.
 
