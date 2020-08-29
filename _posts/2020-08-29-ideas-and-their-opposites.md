@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Ideas, and Their Opposites
-subtitle:   We all love to say the things that we stand for. We're not nearly as good at saying the things we stand against. But you cannot have one without the other.
+subtitle:   We all love to state the things that we stand for. We're not nearly as good at stating the things we stand against. But you cannot have one without the other.
 categories: [values, psychology, personality]
 author:     Lane Rettig
 date:       2020-08-29 10:16:00 -0400
