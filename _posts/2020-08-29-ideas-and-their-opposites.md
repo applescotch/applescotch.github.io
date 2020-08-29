@@ -6,9 +6,9 @@ categories: [values, psychology, personality]
 author:     Lane Rettig
 date:       2020-08-29 10:16:00 -0400
 issue_id:   48
-image:      /assets/IMG_20200818_081053.jpg
-imagealt:   A view over the mountains
-imagetxt:   "The sort of view that inspires deep thinking. If only you could get a view like this in the city. Can you blame people who wake up to this view every morning for liking things as they are? Maine, August 2020 (Photo by the author)"
+image:      /assets/fabio-rose-HJSIZsC4te8-unsplash.jpg
+imagealt:   Desert Symmetry
+imagetxt:   "All existence is defined by, and exists only in conjunction with, its opposite. The Chinese figured this out a few thousand years ago: the original meaning of _yin_ and _yang_ is the bright (sunny) side and the dark (cloudy, shaded) side of a hill. (Photo by <a href='https://unsplash.com/@fabiorose?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Fabio Rose</a> on Unsplash)"
 ---
 “What do you stand for?”
 
