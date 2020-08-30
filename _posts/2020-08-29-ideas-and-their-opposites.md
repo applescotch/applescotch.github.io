@@ -2,13 +2,13 @@
 layout:     post
 title:      Ideas, and Their Opposites
 subtitle:   We all love to state the things that we stand for. We're not nearly as good at stating the things we stand against. But you cannot have one without the other.
-categories: [values, psychology, personality]
+categories: [values, psychology, belief]
 author:     Lane Rettig
 date:       2020-08-29 10:16:00 -0400
 issue_id:   48
 image:      /assets/fabio-rose-HJSIZsC4te8-unsplash.jpg
 imagealt:   Desert Symmetry
-imagetxt:   "All existence is defined by, and exists only in conjunction with, its opposite. The Chinese figured this out a few thousand years ago: the original meaning of <i>yin</i> and <i>yang</i> is the bright (sunny) side and the dark (cloudy, shaded) side of a hill. (Photo by <a href='https://unsplash.com/@fabiorose?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Fabio Rose</a> on Unsplash)"
+imagetxt:   "All existence is defined by and exists only in conjunction with its opposite. The original meaning of <i>yin</i> and <i>yang</i> is the bright (sunny) side and the dark (cloudy, shaded) side of a hill. (Photo by <a href='https://unsplash.com/@fabiorose?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Fabio Rose</a> on Unsplash)"
 ---
 “What do you stand for?”
 
@@ -42,7 +42,7 @@ To me, Curiosity means to question everything. It means asking lots of hard ques
 
 By deciding to stand for these values, I am implicitly deciding to stand against things such as pride, ambition, material comfort, focus, extremism, and quick action. While I’m happy to take a stand against extremism, I don’t feel so strongly opposed to, say, focus, which is clearly a powerful tool when used for good. And, of course, values don’t exist in a vacuum: there are intricate, complex, and sometimes contradictory connections among them. For instance, I put humility before pride, but I also value excellence, and isn’t taking pride in one’s work part of celebrating excellence? Obviously, understanding my own value system is still a work in progress—and understanding and articulating it better is one of my goals for writing here. As Douglas Hofstadter put it, [“We are all bundles of contradictions.”](/about/)
 
-What things do you stand for? What matters the most to you? What ideas, or beliefs, or patterns of behavior are you the most strongly wedded to, and the least willing to give up? These are your values and your most strongly expressed personality traits.
+What things do you stand for? What matters the most to you? What ideas, beliefs, or patterns of behavior are you the most strongly wedded to, and the least willing to give up? These are your values and your most strongly expressed personality traits.
 
 Next, consider via process of elimination which doors these values and traits close for you. What things do you by necessity _not_ stand for?
 
