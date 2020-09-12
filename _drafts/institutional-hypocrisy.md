@@ -26,17 +26,22 @@ Individuals aren’t very good at clearly articulating their values and principl
 
 Many types of institutions are guilty of institutional hypocrisy. Here are a few examples.
 
-![alt_text](/assets/hypocrisy1.png "image_tooltip")
+<span>
+  <img src="/assets/hypocrisy1.png" class="inline" alt="An advertisement from a credit union"/>
+</span>
+<span>
+  <img src="/assets/hypocrisy2.png" class="inline" alt="An advertisement from indeed"/>
+</span>
+<span>
+  <img src="/assets/hypocrisy3.png" class="inline" alt="An advertisement from Buick and GMC"/>
+</span>
 
-![alt_text](/assets/hypocrisy2.png "image_tooltip")
+<p class="sub-image"><sub>It’s good to know that so many firms are suddenly “here to help” in the wake of the pandemic. As one commentator put it on YouTube, “We know you've lost your job, we know you've lost family members, but please buy our new Cadillac Escalade.” Source: <a href="https://youtu.be/vM3J9jDoaTA">Every Covid-19 Commercial is Exactly the Same</a>.</sub></p>
 
-![alt_text](/assets/hypocrisy3.png "image_tooltip")
-
-[It’s good to know that so many firms are suddenly “here to help” in the wake of the pandemic. As one commentator put it on YouTube, “We know you've lost your job, we know you've lost family members, but please buy our new Cadillac Escalade.” Source: [Every Covid-19 Commercial is Exactly the Same](https://youtu.be/vM3J9jDoaTA).]
-
-![alt_text](/assets/hypocrisy4.png "image_tooltip")
-
-[A perfect example of the sort of advertising that bothers me. I’m not sure what a credit union has to do with a girl dressed as a superhero, or why I and a credit union are “stronger together.” Source: https://www.mytwintiers.com/were-here-for-you/were-here-for-you-corning-credit-union/]
+<div>
+  <img src="/assets/hypocrisy4.png" class="inline" alt="An advertisement from a credit union"/>
+<p class="sub-image"><sub>A perfect example of the sort of advertising that bothers me. I’m not sure what a credit union has to do with a girl dressed as a superhero, or why I and a credit union are “stronger together.” (<a href="https://www.mytwintiers.com/were-here-for-you/were-here-for-you-corning-credit-union/">Source</a>)</sub></p>
+</div>
 
 Commercials and advertisements with messages such as, “We’re here for you” or “Stronger together” have always bothered me. These are the things that family members and close friends say to one another. When a company says things like this, it comes across as hollow and devoid of meaning. It’s an attempt to rob these phrases of the power they have when they’re used meaningfully and intentionally. It would be one thing if the message came directly from someone with whom I had a personal relationship, such as a banker or shopkeeper. Coming directly from corporate HQ, conveyed over an impersonal medium such as television or the Internet, it’s particularly offensive and galling.
 
@@ -50,9 +55,10 @@ Dishonest, hypocritical marketing takes many forms. My personal favorite example
 
 I find this sort of marketing genuinely offensive and demeaning. Why do companies feel that they need to lie to us to earn our business? Why do they feel the need to pander to consumers as if we somehow can’t handle the truth that they care about profits and not about us as people?
 
-![alt_text](images/hypocrisy5.png "image_tooltip")
-
-[A [full-page ad](https://www.patagonia.com/stories/dont-buy-this-jacket-black-friday-and-the-new-york-times/story-18615.html) that Patagonia ran in the New York Times in November, 2011.]
+<div>
+  <img src="/assets/hypocrisy5.png" class="inline" alt="A full-page advertisement in the New York Times from Patagonia"/>
+<p class="sub-image"><sub>A <a href="https://www.patagonia.com/stories/dont-buy-this-jacket-black-friday-and-the-new-york-times/story-18615.html">full-page ad</a> that Patagonia ran in the New York Times in November, 2011.</sub></p>
+</div>
 
 Not all companies lie to us. There are a precious few that know what they stand for and act in a way that’s consistent with their values. One example is Patagonia, which famously [ran a full-page ad](https://www.patagonia.com/stories/dont-buy-this-jacket-black-friday-and-the-new-york-times/story-18615.html) in the New York Times on Black Friday a few years ago reading, “DON’T BUY THIS JACKET” as a way to encourage consumers to consider the environmental impact of their purchasing decisions. Another is CVS, which discontinued the sale of tobacco products in 2015 (whereas all of its rivals [still sell tobacco products](https://truthinitiative.org/research-resources/tobacco-industry-marketing/action-needed-tobacco-and-pharmacies), directly violating their [values](https://www.walgreensbootsalliance.com/about-us/vision-purpose-values) and [mission statements](https://www.riteaid.com/about-us/mission-statement)).
 
