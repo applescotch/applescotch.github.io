@@ -94,6 +94,16 @@ img.inline {
   margin-bottom: 10px;
 }
 
+div.stackimg {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.stackimg > img {
+  width: 45%;
+  margin: auto;
+}
+
 p.sub-image {
   margin-bottom: 10px;
   text-align: center;
