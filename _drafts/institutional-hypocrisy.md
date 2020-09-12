@@ -10,33 +10,31 @@ image:      /assets/jametlene-reskp-Q79XFGuTFfM-unsplash.jpg
 imagealt:   Pinocchio
 imagetxt:   "More and more, our politicians are coming to resemble this fellow. If our institutions are resilient enough, we should be okay—but are they? (Photo by <a href='https://unsplash.com/@reskp?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jametlene Reskp</a> on Unsplash)"
 ---
-We live in a world where we are constantly lied to. Our leaders and our politicians lie to us (but at least we expect this). The companies we rely on, including our [financial institutions](/finance/cryptocurrency/sovereignty/2020/04/19/scalpels-and-sledgehammers.html), lie to us. Companies lie to their own employees (see recent examples from tech giants such as [Amazon](https://www.digitaltrends.com/news/amazon-covid-shakopee-minnesota-warehouse-workers-sick/), [Facebook](https://www.businessinsider.com/facebook-phone-project-secretive-comapny-lied-says-employee-book-2020-2), [Google](https://www.nytimes.com/2018/08/16/technology/google-employees-protest-search-censored-china.html), and [Uber](https://www.extremetech.com/mobile/243102-uber-fined-20-million-lying-driver-earnings-predatory-financing)). Even our most trusted institutions such as the universities and the medical system lie to us regularly. It’s no surprise that we’ve witnessed a breakdown of trust over the past few years, and it’s no surprise that “trustless” systems like Bitcoin continue to gain in popularity.[[^1]]
+We live in a world where we are constantly lied to. Our leaders and our politicians lie to us (but at least we expect this). The companies we rely on, including our [financial institutions](/finance/cryptocurrency/sovereignty/2020/04/19/scalpels-and-sledgehammers.html), lie to us. Companies lie to their own employees (recent examples include [Amazon](https://www.digitaltrends.com/news/amazon-covid-shakopee-minnesota-warehouse-workers-sick/), [Facebook](https://www.businessinsider.com/facebook-phone-project-secretive-comapny-lied-says-employee-book-2020-2), [Google](https://www.nytimes.com/2018/08/16/technology/google-employees-protest-search-censored-china.html), and [Uber](https://www.extremetech.com/mobile/243102-uber-fined-20-million-lying-driver-earnings-predatory-financing)). Even our most trusted institutions such as universities and the medical system lie to us regularly. It’s no surprise that we’ve witnessed a breakdown of trust over the past few years, and it’s no surprise that “trustless” systems like Bitcoin continue to gain in popularity.[[^1]]
 
 Society cannot function without trust, and the breakdown of trust is one of the biggest collective crises that we face. It makes addressing other problems, from climate change to Covid19, much more difficult.[[^2]] This subject merits much deeper analysis and discussion, but for the purposes of this article I want to focus on one particularly common, repugnant type of dishonesty that has contributed much to this breakdown: hypocrisy.
 
-Hypocrisy is the type of lying that bothers me the most. It’s a surprisingly complex, nuanced phenomenon with a number of different definitions. In a nutshell, hypocrisy is a pattern of behavior that involves professing certain beliefs, values, or virtues, while simultaneously acting in ways contradictory to those stated beliefs, in effect contradicting oneself. While not strictly required, this often involves criticizing the same behavior in others.
+Hypocrisy is the type of lying that bothers me the most. It’s a surprisingly complex, nuanced phenomenon with a number of different definitions. In a nutshell, hypocrisy is a pattern of behavior that involves professing certain beliefs, values, or virtues, while simultaneously acting in ways contradictory to those stated beliefs, in effect contradicting oneself. While not strictly required, it often involves criticizing the same behavior in others.
 
 Some hypocrites lie outright and profess to believe things they don’t really believe, thus deceiving others. More often, however, hypocrites are really only deceiving themselves. If there’s one thing worse than lying to others, it’s lying to yourself. This is probably one of the reasons hypocrisy bothers me so much.
 
 In a world full of complexity and moral relativism, internal consistency is one of the few absolutes we can realistically, rightfully, and regularly expect from one another. We don’t always have to agree, we don’t always have to understand or be okay with each others’ beliefs and behavior, but at minimum we should do the things we say we will do. We should act in a way that’s consistent with the things we believe and the things we say we believe. We should not contradict ourselves. And we should expect the same of others.
 
-While hypocrisy on the part of an individual is bad enough, hypocrisy on the part of an institution is much worse. An individual can be forgiven for a temporary lapse of consistency, but the _raison d’etre_ of an institution is consistency (along with efficiency and longevity). As individuals, we are fickle and unreliable. We build and subsequently align ourselves with institutions as a guard against our own failures and unpredictability.
+While hypocrisy on the part of an individual is bad enough, hypocrisy on the part of an institution is much worse. An individual can be forgiven for a temporary lapse of consistency, but the _raison d'être_ of an institution is consistency (along with efficiency and longevity). As individuals, we are fickle and unreliable. We build and subsequently align ourselves with institutions as a guard against our own failures and unpredictability.
 
-Individuals aren’t very good at clearly articulating their values and principles. To do this is difficult, and it can be the work of a lifetime. On the other hand, an institution that [doesn’t know what it stands for](https://www.etherean.org/blockchain/culture/values/2020/08/09/crypto-has-a-purpose-problem.html) isn’t an institution at all. At best, such an institution is unfocused and ineffective; at worst, it’s a tool in thrall to someone else’s will. In any case, such a false institution is, almost by definition, deceptive to those inside and outside.
+Individuals aren’t very good at clearly articulating their values and principles. To do this is difficult, and it can be the work of a lifetime. On the other hand, an institution that [doesn’t know what it stands for](https://www.etherean.org/blockchain/culture/values/2020/08/09/crypto-has-a-purpose-problem.html) isn’t an institution at all. At best, it's unfocused and ineffective; at worst, it’s a tool in thrall to someone else’s will. In any case, such a false institution is almost by definition deceptive to those inside and outside.
 
 Many types of institutions are guilty of institutional hypocrisy. Here are a few examples.
 
-![alt_text](images/hypocrisy1.png "image_tooltip")
+![alt_text](/assets/hypocrisy1.png "image_tooltip")
 
-![alt_text](images/hypocrisy2.png "image_tooltip")
+![alt_text](/assets/hypocrisy2.png "image_tooltip")
 
-![alt_text](images/hypocrisy3.png "image_tooltip")
+![alt_text](/assets/hypocrisy3.png "image_tooltip")
 
 [It’s good to know that so many firms are suddenly “here to help” in the wake of the pandemic. As one commentator put it on YouTube, “We know you've lost your job, we know you've lost family members, but please buy our new Cadillac Escalade.” Source: [Every Covid-19 Commercial is Exactly the Same](https://youtu.be/vM3J9jDoaTA).]
 
-
-![alt_text](images/hypocrisy4.png "image_tooltip")
-
+![alt_text](/assets/hypocrisy4.png "image_tooltip")
 
 [A perfect example of the sort of advertising that bothers me. I’m not sure what a credit union has to do with a girl dressed as a superhero, or why I and a credit union are “stronger together.” Source: https://www.mytwintiers.com/were-here-for-you/were-here-for-you-corning-credit-union/]
 
