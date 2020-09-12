@@ -26,38 +26,16 @@ Individuals aren’t very good at clearly articulating their values and principl
 
 Many types of institutions are guilty of institutional hypocrisy. Here are a few examples.
 
+![alt_text](images/hypocrisy1.png "image_tooltip")
 
+![alt_text](images/hypocrisy2.png "image_tooltip")
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
+![alt_text](images/hypocrisy3.png "image_tooltip")
 
 [It’s good to know that so many firms are suddenly “here to help” in the wake of the pandemic. As one commentator put it on YouTube, “We know you've lost your job, we know you've lost family members, but please buy our new Cadillac Escalade.” Source: [Every Covid-19 Commercial is Exactly the Same](https://youtu.be/vM3J9jDoaTA).]
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/hypocrisy4.png "image_tooltip")
 
 
 [A perfect example of the sort of advertising that bothers me. I’m not sure what a credit union has to do with a girl dressed as a superhero, or why I and a credit union are “stronger together.” Source: https://www.mytwintiers.com/were-here-for-you/were-here-for-you-corning-credit-union/]
@@ -74,13 +52,7 @@ Dishonest, hypocritical marketing takes many forms. My personal favorite example
 
 I find this sort of marketing genuinely offensive and demeaning. Why do companies feel that they need to lie to us to earn our business? Why do they feel the need to pander to consumers as if we somehow can’t handle the truth that they care about profits and not about us as people?
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![alt_text](images/hypocrisy5.png "image_tooltip")
 
 [A [full-page ad](https://www.patagonia.com/stories/dont-buy-this-jacket-black-friday-and-the-new-york-times/story-18615.html) that Patagonia ran in the New York Times in November, 2011.]
 
