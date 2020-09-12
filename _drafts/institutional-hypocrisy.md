@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      Institutional Hypocrisy
-subtitle:   If there's one thing that's worse than lying to others, it's lying to yourself. And if there's one thing worse than individual hypocrisy, it's institutional hypocrisy.
+subtitle:   If there's one thing worse than lying to others, it's lying to yourself. And if there's one thing worse than lying on the part of an individual, it's lying on the part of an institution.
 categories: [values, philosophy, society]
 author:     Lane Rettig
 date:       2020-09-11 15:40:00 -0400
 issue_id:   51
 image:      /assets/jametlene-reskp-Q79XFGuTFfM-unsplash.jpg
 imagealt:   Pinocchio
-imagetxt:   "Do you think Pinocchio is honest with himself? (Photo by <a href='https://unsplash.com/@reskp?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jametlene Reskp</a> on Unsplash)"
+imagetxt:   "More and more, our politicians are coming to resemble this fellow. If our institutions are resilient enough, we should be okay—but are they? (Photo by <a href='https://unsplash.com/@reskp?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jametlene Reskp</a> on Unsplash)"
 ---
 We live in a world where we are constantly lied to. Our leaders and our politicians lie to us (but at least we expect this). The companies we rely on, including our [financial institutions](/finance/cryptocurrency/sovereignty/2020/04/19/scalpels-and-sledgehammers.html), lie to us. Companies lie to their own employees (see recent examples from tech giants such as [Amazon](https://www.digitaltrends.com/news/amazon-covid-shakopee-minnesota-warehouse-workers-sick/), [Facebook](https://www.businessinsider.com/facebook-phone-project-secretive-comapny-lied-says-employee-book-2020-2), [Google](https://www.nytimes.com/2018/08/16/technology/google-employees-protest-search-censored-china.html), and [Uber](https://www.extremetech.com/mobile/243102-uber-fined-20-million-lying-driver-earnings-predatory-financing)). Even our most trusted institutions such as the universities and the medical system lie to us regularly. It’s no surprise that we’ve witnessed a breakdown of trust over the past few years, and it’s no surprise that “trustless” systems like Bitcoin continue to gain in popularity.[[^1]]
 
