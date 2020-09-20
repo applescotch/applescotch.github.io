@@ -24,7 +24,7 @@ The second was a feeling of pity at the unimportance and meaninglessness of his 
 
 And, indeed, the path I followed over the following years and the following chapters of my life took me in a very different direction. Yet, reflecting now on the experience—and struck by the way this image has stayed with me across the distance and the span of nearly 20 years—I understand now that that man knew something I didn’t know. He possessed a wisdom which I am only now beginning to grasp.
 
---
+<hr/>
 
 All existence is struggle. We struggle with our work. We struggle with money. We struggle to be healthy. We struggle with things that upset us, but we also struggle with the things and the people we love the most: our friends and family, our passions and joys. Even the most successful among us, even those who seem to have it all—health, wealth, power, and fame—struggle with pride, loneliness, privacy, and the constant stress of managing a personal brand and reputation.
 
@@ -46,7 +46,7 @@ To me, the secret of happiness is timelessness, to transcend the perceived limit
 
 We cannot win the game of life and time, and we cannot win the race against death, no matter how hard we try. Sometimes the only way to win such a game is to refuse to play in the first place. This means looking Death herself in the face, smiling at her, and saying, “I know you. You don’t scare me. I won’t play your game. Let’s be friends instead.”
 
---
+<hr/>
 
 Our society is obsessed with narratives. Companies, countries, and individuals need to have stories: a creation myth, a present full of challenges and shortcomings, and a glorious, promised future when those challenges are overcome and some ultimate goal is achieved. For a company, this ultimate goal may be the launch of a killer product, a billion dollar valuation, or an IPO. For a country or a people, this may be winning a war, achieving independence and recognition, or attaining some quality of life metric such as per capita income. For an individual, it could be getting into a good school, getting a dream job, getting married, owning a home, or having children.
 
@@ -60,7 +60,7 @@ By escaping from linear thinking, by opting out of the various finite games unfo
 
 As someone who cares deeply about having a positive impact on the world, it’s important to note that the choice to live and work in the moment does not mean to minimize our long-term impact, either. Quite the contrary. It’s counterintuitive, but by taking a step back and not trying to do too much too fast, we can actually increase our net impact. Think of it this way: do fewer things, better.
 
---
+<hr/>
 
 This may sound great in theory but it’s quite vague and metaphysical. What does it actually mean? What “path” am I referring to and how does one find it?
 
@@ -104,7 +104,7 @@ I don’t mean to suggest that this path is easy or straightforward. It’s not.
 
 **Relax.** Don’t worry too much if you forget something, miss an opportunity, or fail at something. Missing one opportunity almost inevitably results in others appearing sooner or later. Herein lies another of life’s great paradoxes: when we feel under less pressure to accomplish specific things within a specific timeframe, we relax, perform better, and are more likely to accomplish those things!
 
---
+<hr/>
 
 It’s taken many years, but I’m beginning to see the wisdom of the old artisan I observed in Japan. Perhaps he really had spent his entire life and career perfecting his craft. Perhaps he had done something entirely different before. Perhaps he had traveled the world, and at some point, had decided that he had seen enough. Perhaps he had even gone to war, and when it was over, decided he just wanted a quiet, peaceful life. It makes no difference. He had achieved something most of us never will: a sense of total oneness with his work, and of purpose and satisfaction. I could see it in his eyes, in his hands, and in his work. He was living completely in the moment.
 
