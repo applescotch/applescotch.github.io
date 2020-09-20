@@ -121,7 +121,7 @@ Note: the ideas in this post are heavily influenced by three books: [Springboard
 ## Notes
 
 [^1]:
-     See https://en.wiktionary.org/wiki/eudemonia
+     See [eudemonia](https://en.wiktionary.org/wiki/eudemonia).
 
 [^2]:
      As articulated by Rabbi Akiva Tatz. From _Springboard,_ p. 37.
