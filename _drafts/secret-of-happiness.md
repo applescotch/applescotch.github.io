@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      The Secret of Happiness
-subtitle:   The secret of happiness is timelessness. It's both the simplest and most difficult thing imaginable.
+subtitle:   We all seek happiness, but most of us have no clue where to find it. It isn't to be found where most people think it is.
 categories: [philosophy, buddhism, psychology]
 author:     Lane Rettig
 date:       2020-09-20 10:16:00 -0400
 issue_id:   53
 image:      /assets/clement-chai-24lSJNnkGhA-unsplash.jpg
 imagealt:   A man fixing an old fan outside a shop in Hanoi in the evening
-imagetxt:   "Those who work with their hands, those who spend their entire lives and careers perfecting a craft, seem to know something about happiness that the rest of us don't. (Photo by <a href='https://unsplash.com/@clementchai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Clement Chai</a> on Unsplash)"
+imagetxt:   "Those who work with their hands, those who spend their entire lives and careers perfecting a craft, seem to know something about happiness that the rest of us don't. This guy gets it. (Photo by <a href='https://unsplash.com/@clementchai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Clement Chai</a> on Unsplash)"
 ---
 There’s a scene that I’ve remembered for many years.
 
@@ -116,7 +116,7 @@ I don’t know the whole way there there, but I know that it starts with timeles
 
 How do you feel that you battle with time in your own life? What do happiness, timelessness, and escaping from the finite game mean to you? [Leave a comment](https://github.com/applescotch/applescotch.github.io/issues/53) and let me know.
 
-Note: the ideas in this post are heavily influenced by three books: [Springboard: Launching Your Personal Search for Success](https://grichardshell.com/books/springboard/), [Team Human](https://rushkoff.com/books/team-human-book/), and [Finite and Infinite Games](https://www.simonandschuster.com/books/Finite-and-Infinite-Games/James-Carse/9781476731711). These books are an excellent place to explore these ideas in greater depth.
+Note: The ideas in this post are heavily influenced by three books: [Springboard: Launching Your Personal Search for Success](https://grichardshell.com/books/springboard/), [Team Human](https://rushkoff.com/books/team-human-book/), and [Finite and Infinite Games](https://www.simonandschuster.com/books/Finite-and-Infinite-Games/James-Carse/9781476731711). These books are an excellent place to explore these ideas in greater depth.
 
 ## Notes
 
