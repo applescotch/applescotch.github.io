@@ -106,6 +106,22 @@ I don’t mean to suggest that this path is easy or straightforward. It’s not.
 
 <hr/>
 
+> “Of course I don’t have to do this,” one middle aged man said, carefully cleaning the table with a damp cloth. He put the cloth in a little pouch, sat down beside him. "But look, this table’s clean." He agreed that the table was clean.
+
+> “Usually,” the man said, “I work on alien religions. Directional emphasis in religious observance. That’s my speciality. Like when temples or graves or prayers have to face a certain direction. That sort of thing. Well, I catalogue, evaluate, compare. I come up with theories and argue with colleagues here and elsewhere. But the job’s never finished. Always new examples and even the old ones get reevaluated and new people come along and come up with new ideas about what you thought was settled. But,” he slapped the table, “when you clean a table, you clean a table. You feel you’ve done something. It’s an achievement.”
+
+> “But in the end, it’s still just cleaning a table.”
+
+> “And therefore does not really signify on the cosmic scale of events?“
+
+> He smiled in response to the man’s grin. “Well, yes.”
+
+> "But then, what does signify? My other work? Is that really important either? I could try composing wonderful musical works or daylong entertainment epics. But what would that do? Give people pleasure? My wiping this table gives me pleasure, and people come to a clean table which gives them pleasure. And anyway, the people die. Stars die. Universes die. What is any achievement, however great it was, once time itself is dead? Of course, if all I did was wipe tables then of course it would seem a mean and despicable waste of my huge intellectual potential. But, because I _choose_ to do it, it gives me pleasure.”
+
+- Use Of Weapons, Iain M. Banks
+
+<hr/>
+
 It’s taken many years, but I’m beginning to see the wisdom of the old artisan I observed in Japan. Perhaps he really had spent his entire life and career perfecting his craft. Perhaps he had done something entirely different before. Perhaps he had traveled the world, and at some point, had decided that he had seen enough. Perhaps he had even gone to war, and when it was over, decided he just wanted a quiet, peaceful life. It makes no difference. He had achieved something most of us never will: a sense of total oneness with his work, and of purpose and satisfaction. I could see it in his eyes, in his hands, and in his work. He was living completely in the moment.
 
 There isn’t really a good word for this state of being in the English language, this unique form of happiness, contentment, and satisfaction. “Enlightenment” is a bit too strong. A better word is _eudemonia,_ a Greek word which means a “state of excellence characterized by objective flourishing across a lifetime, and brought about through the exercise of moral virtue, practical wisdom, and rationality,”[[^1]] described in Aristotle’s _Nicomachean Ethics_ as the ultimate form of happiness. Another possible word is _simcha,_ a Hebrew word used to describe the happiness associated with any joyful occasion which has deeper meaning in Jewish philosophy: “the experience of the soul that comes when you are doing what you should be doing.”[[^2]]
