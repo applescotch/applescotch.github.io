@@ -10,6 +10,22 @@ image:      /assets/clement-chai-24lSJNnkGhA-unsplash.jpg
 imagealt:   A man fixing an old fan outside a shop in Hanoi in the evening
 imagetxt:   "Those who work with their hands, those who spend their entire lives and careers perfecting a craft, seem to know something about happiness that the rest of us don't. This guy gets it. (Photo by <a href='https://unsplash.com/@clementchai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Clement Chai</a> on Unsplash)"
 ---
+> “Of course I don’t have to do this,” one middle aged man said, carefully cleaning the table with a damp cloth. He put the cloth in a little pouch, sat down beside him. "But look, this table’s clean." He agreed that the table was clean.
+
+> “Usually,” the man said, “I work on alien religions... I catalogue, evaluate, compare. I come up with theories and argue with colleagues here and elsewhere. But the job’s never finished. Always new examples and even the old ones get reevaluated and new people come along and come up with new ideas about what you thought was settled. But,” he slapped the table, “when you clean a table, you clean a table. You feel you’ve done something. It’s an achievement.”
+
+> “But in the end, it’s still just cleaning a table.”
+
+> “And therefore does not really signify on the cosmic scale of events?“
+
+> He smiled in response to the man’s grin. “Well, yes.”
+
+> "But then, what does signify? My other work? Is that really important either? I could try composing wonderful musical works or daylong entertainment epics. But what would that do? Give people pleasure? My wiping this table gives me pleasure, and people come to a clean table which gives them pleasure. And anyway, the people die. Stars die. Universes die. What is any achievement, however great it was, once time itself is dead? ... Because I _choose_ to do it, it gives me pleasure.”
+
+- Use Of Weapons, Iain M. Banks
+
+<hr/>
+
 There’s a scene that I’ve remembered for many years.
 
 I was visiting one of the small hot spring villages tucked into the mountains in northern Japan, not far from the university where I was studying abroad as an undergraduate. It was late winter or early spring, and I distinctly remember the steam rising from the channels by the side of the road where the excess hot spring water flowed down the hill, giving off its distinctive, sulphuric odor. I visited a small gift shop that specialized in simple wooden dolls known as [Kokeshi](https://en.wikipedia.org/wiki/Kokeshi). I had been introduced to these dolls by my host family, and was instantly enamored of them for reasons I can’t quite put my finger on: their refined simplicity and symmetric elegance perhaps, or the variety of styles and designs, or the fact that they were unique not only to Japan, but to the particular region of Japan where I was studying.
@@ -103,22 +119,6 @@ I don’t mean to suggest that this path is easy or straightforward. It’s not.
 **Respect nature.** Nothing embodies timelessness better than Mother Nature and there is no better place to learn to understand and appreciate timelessness than surrounded by nature. Go on trips, take walks and hikes, explore the countryside, climb mountains, swim in the ocean, and spend as much time outdoors as you can. Cultivate a profound respect for the beauty, power, wisdom, and timelessness of nature.
 
 **Relax.** Don’t worry too much if you forget something, miss an opportunity, or fail at something. Missing one opportunity almost inevitably results in others appearing sooner or later. Herein lies another of life’s great paradoxes: when we feel under less pressure to accomplish specific things within a specific timeframe, we relax, perform better, and are more likely to accomplish those things!
-
-<hr/>
-
-> “Of course I don’t have to do this,” one middle aged man said, carefully cleaning the table with a damp cloth. He put the cloth in a little pouch, sat down beside him. "But look, this table’s clean." He agreed that the table was clean.
-
-> “Usually,” the man said, “I work on alien religions. Directional emphasis in religious observance. That’s my speciality. Like when temples or graves or prayers have to face a certain direction. That sort of thing. Well, I catalogue, evaluate, compare. I come up with theories and argue with colleagues here and elsewhere. But the job’s never finished. Always new examples and even the old ones get reevaluated and new people come along and come up with new ideas about what you thought was settled. But,” he slapped the table, “when you clean a table, you clean a table. You feel you’ve done something. It’s an achievement.”
-
-> “But in the end, it’s still just cleaning a table.”
-
-> “And therefore does not really signify on the cosmic scale of events?“
-
-> He smiled in response to the man’s grin. “Well, yes.”
-
-> "But then, what does signify? My other work? Is that really important either? I could try composing wonderful musical works or daylong entertainment epics. But what would that do? Give people pleasure? My wiping this table gives me pleasure, and people come to a clean table which gives them pleasure. And anyway, the people die. Stars die. Universes die. What is any achievement, however great it was, once time itself is dead? Of course, if all I did was wipe tables then of course it would seem a mean and despicable waste of my huge intellectual potential. But, because I _choose_ to do it, it gives me pleasure.”
-
-- Use Of Weapons, Iain M. Banks
 
 <hr/>
 
