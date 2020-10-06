@@ -22,7 +22,7 @@ imagetxt:   "Those who work with their hands, those who spend their entire lives
 
 > "But then, what does signify? My other work? Is that really important either? I could try composing wonderful musical works or daylong entertainment epics. But what would that do? Give people pleasure? My wiping this table gives me pleasure, and people come to a clean table which gives them pleasure. And anyway, the people die. Stars die. Universes die. What is any achievement, however great it was, once time itself is dead? ... Because I _choose_ to do it, it gives me pleasure.”
 
-- Use Of Weapons, Iain M. Banks
+Use Of Weapons, Iain M. Banks
 
 <hr/>
 
