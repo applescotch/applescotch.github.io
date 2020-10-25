@@ -8,7 +8,7 @@ date:       2020-10-25 16:21:00 -0400
 issue_id:   58
 image:      /assets/shahir-shah-Z2bw-rJgkpg-unsplash.jpg
 imagealt:   A monkey reaching for an apple
-imagetxt:   "On the surface mindfulness and productivity may seem like two totally different pursuits, but in fact they have a lot in common. Neither process is linear, and both involve training the mind and increasing focus. If we really want to become more productive, mindfulness is a good place to start. (Photo by <a href="https://unsplash.com/@shahirshah?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">shahir shah</a> on Unsplash)"
+imagetxt:   "On the surface mindfulness and productivity may seem like two totally different pursuits, but in fact they have a lot in common. Neither process is linear, and both involve training the mind and increasing focus. If we really want to become more productive, mindfulness is a good place to start. (Photo by <a href='https://unsplash.com/@shahirshah?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>shahir shah</a> on Unsplash)"
 ---
 What does it mean to be more productive? Over the last few years, as I’ve thought more about productivity and worked to become more productive, this is a question I keep coming back to.
 
