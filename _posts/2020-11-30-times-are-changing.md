@@ -13,7 +13,7 @@ imagetxt:   "Learning electrical engineering with elementary school students. I 
 When I want to get a quick sense of how the world visualizes a thing, I try an image search. When I type the word “startup” into a search engine such as Unsplash, I see something like this:
 
 <div>
-  <img src="/assets/startup.png" class="inline" alt="The result of an image search for the term startup"/>
+  <img src="/assets/startup.png" class="inline" style="width: 80%; display: block; margin-left: auto; margin-right: auto" alt="The result of an image search for the term startup"/>
 </div>
 
 Try the same and you’ll find images of mostly twentysomething, mostly white men wearing shorts, t-shirts and hoodies, sitting around large, reclaimed wood tables next to exposed brick walls in open-plan coworking spaces decorated with tacky motivational slogans (“Do Something Great”) and lit by Edison lights, sipping coffee, tapping away at Macbooks and iPhones, and putting sticky notes on whiteboards. Having spent time in a few such places over the past few years I can attest to the fact that they do indeed exist, that they are full of nerdy, ambitious types, and that, once in a while, they even produce something innovative.
